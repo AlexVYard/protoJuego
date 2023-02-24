@@ -1,0 +1,31 @@
+html, body {
+  text-align: center;
+  font-family: fantasy;
+  height: 100%;
+  width: 100%;
+  background: #132743;
+  color: #ffcbcb;
+}
+header{  
+  text-align: center;
+  background:#ffb5b5;
+  padding: 1px 0;
+  color: #407088;
+}
+.container{
+  max-width: 400px;
+  margin: auto;
+  padding: 5px 0;
+  background: #ffb5b5;
+}
+button{
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  padding: 10px;
+  background-color: #ffcbcb;
+  border: none;
+  }
+#comprarA{
+  display: none;
+}
